@@ -1,1 +1,1 @@
-**A simple Dice challenge game **
+A simple Dice challenge game 
